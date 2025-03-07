@@ -2,6 +2,8 @@
 title: 我的经典语录
 description: "语录"
 date: 2025-03-07 15:00:46
+categories:
+- "整活"
 ---
 
 未排序。

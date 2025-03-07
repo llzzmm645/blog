@@ -15,10 +15,10 @@ INFP。
 * OIer
 * Minecrafter（善创哥理赔者）
 * Florrer（淡）
-* 被文科鞭打的垃圾
-* 被理科鞭打的垃圾
-* 被体育鞭打的垃圾
-* 被大佬鞭打的垃圾
+* 被文科鞭打的蒟蒻
+* 被理科鞭打的蒟蒻
+* 被体育鞭打的蒟蒻
+* 被大佬鞭打的蒟蒻
 * 熟练掌握 HTML、CSS、JS、C++、Java、Python~~等单词的拼写~~
 
 生产日期：2011-05-【数据删除】，保质期：【数据删除】
@@ -29,7 +29,7 @@ Luogu：[1116515](https://www.luogu.com.cn/user/1116515) or 1046501（~~如果�
 
 Email：zm664455@outlook.com
 
-Codeforces：liuzimomo（newbie）
+Codeforces：liuzimo（newbie）
 
 剩下的如果我没有记错的话，应该都叫`llzzmm645`了。
 
