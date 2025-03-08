@@ -1,0 +1,9 @@
+del {
+    border-radius: 3px;
+    background-color: black;
+    color: black;
+}
+
+del:hover {
+    color: white;
+}

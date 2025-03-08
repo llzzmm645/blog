@@ -2,7 +2,7 @@
 title: 关于我
 date: 2025-03-06 15:21:50
 description: "Hello，朋友，啊不，大佬！"
-top: true
+sticky: 10000
 ---
 Hello，朋友，啊不，大佬！
 
